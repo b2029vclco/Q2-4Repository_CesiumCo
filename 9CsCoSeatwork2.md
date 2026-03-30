@@ -153,6 +153,8 @@
 
     c. How do you differentiate sticky from fixed (you can research on sticky)?
 
-        Sticky is like scrolling 
+        Sticky is like scrolling normally at the beginning, but instead of dissapearing from the page, it sticks on to your page. In fixed, even at the beginning of scrolling, it will never move.
 
     d. If you were designing a webpage for a school event, how might you use positioning to highlight important information? Please give concrete examples.
+
+        I would use fixed positioning for a footer, and put contact details and dates and event times there. I would also use sticky positioning at the side of the page for example, people who made the website or event.
